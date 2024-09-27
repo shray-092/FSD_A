@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+table{
+    background-color: purple;
+    border-radius: 10px;
+    border-color: blue;
+    border-style: groove;
+    border-width: 10px;
+}
+h1{
+    background-color: blanchedalmond;
+    color: black;
+}
