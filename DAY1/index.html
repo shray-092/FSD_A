@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <form action="" method="post">
+    <table>
+        <tr>
+            <td colspan="2">
+                <h1>Registration Form</h1>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="b3">Name:</label></td>
+            <td><input type="text" name="name" id="b3"></td>
+        </tr>
+        <tr>
+            <td><label for="a4">Email:</label></td>
+            <td><input type="email" name="email" id="a4"></td>
+        </tr>
+        <tr>
+            <td><label for="password">Password:</label></td>
+            <td><input type="password" name="password" id="password"></td>
+        </tr>
+        <tr>
+            <td><label for="address">Address:</label></td>
+            <td><textarea name="address" rows="3" cols="20"></textarea></td>
+        </tr>
+        <tr>
+            <td>Branch:</td>
+            <td>
+                <label><input type="radio" name="branch" value="CSE"> CSE</label>
+                <label><input type="radio" name="branch" value="CSE-AI-ML"> CSE-AI-ML</label>
+                <label><input type="radio" name="branch" value="CSE-DS"> CSE-DS</label>
+                <label><input type="radio" name="branch" value="IT"> IT</label>
+            </td>
+        </tr>
+        <tr>
+            <td>Language:</td>
+            <td>
+                <label><input type="radio" name="language" value="C++"> C++</label>
+                <label><input type="radio" name="language" value="Python"> Python</label>
+                <label><input type="radio" name="language" value="Java"> Java</label>
+            </td>
+        </tr>
+        <tr>
+            <td><label for="dob">Date of Birth:</label></td>
+            <td><input type="date" name="dob" id="dob"></td>
+        </tr>
+        <tr>
+            <td><label for="profile">Upload Profile:</label></td>
+            <td><input type="file" name="profile" id="profile"></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Register"></td>
+            <td><input type="reset" value="Clear"></td>
+        </tr>
+    </table>
+   </form>
+</body>
+</html>
