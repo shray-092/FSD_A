@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+div ~p{
+    background-color: greenyellow;
+}
+.fititems{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: yellow;
+    border-width: 10px;
+    border-style: double;
+    margin:20px;
+}
+.fronter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#items{
+    order: 2;
+}
