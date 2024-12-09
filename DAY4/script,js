@@ -1,0 +1,19 @@
+function validate()
+{
+    let username=document.getElementById("un").value;
+
+    
+    let password=document.getElementById("ps").value;
+    
+    if(username.length<10 )
+    {
+       alert("useranem not acceptable")
+
+        
+    }
+    else{
+        alert("wrong password")
+
+    }
+
+}

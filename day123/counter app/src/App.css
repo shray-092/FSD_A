@@ -1,0 +1,34 @@
+.count-app {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .count-disp {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .count-body {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  .count-btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    box-shadow: #0056b3;
+    transition: all;
+    
+  }
+  
+  .count-btn:hover {
+    background-color: #0056b3;
+    color: azure;
+  }
+  

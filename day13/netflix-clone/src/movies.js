@@ -1,0 +1,87 @@
+const movies=[
+    {
+        id:1,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:2,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:3,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:4,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:5,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:6,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:7,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:8,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:9,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:10,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:11,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    },
+    {
+        id:12,
+        image:"https://rukminim2.flixcart.com/image/612/612/xif0q/movie/5/p/7/2009-dvd-eagle-hindi-tarzan-the-wonder-car-original-imahfevqrdeqzths.jpeg?q=70",
+        title:"Targon ",
+        Language:"Hindi",
+        cost:200,
+    }
+];
+export default movies;
